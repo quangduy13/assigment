@@ -1,4 +1,4 @@
-package com.duytq.assignment.part1.linkedlist;
+package com.duytq.assignment.part1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
