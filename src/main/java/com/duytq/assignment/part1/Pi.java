@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//Exercise 3
 public class Pi {
     public List<Integer> calculatorPi(List<Integer> input) {
         int zeroFlag = 0;

@@ -2,9 +2,7 @@ package com.duytq.assignment.part1;
 
 import com.duytq.assignment.part1.linkedlist.DeQue;
 
-import java.util.ArrayList;
-import java.util.List;
-
+//Exercise 2
 public class ArrayStructure {
     //implement queue
     public static void main(String[] args) {

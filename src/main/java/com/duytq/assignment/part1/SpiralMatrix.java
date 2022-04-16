@@ -3,6 +3,7 @@ package com.duytq.assignment.part1;
 import java.util.ArrayList;
 import java.util.List;
 
+//Exercise 1
 public class SpiralMatrix {
     public static int[][] DIRECTIONS = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
     public List<Integer> spiralMatrix(int n) {
